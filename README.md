@@ -1,1 +1,1 @@
-# amazon-web-scraping-python-project
+# amazon-web-scraping-using python and jupitor notebook
